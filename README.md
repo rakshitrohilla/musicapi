@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="200"/>
+  <img src="assets/Gemini_Generated_Image_f3hcp0f3hcp0f3hc.png" width="200"/>
 </p>
 
 <h1 align="center">SoundCloud CLI</h1>
@@ -19,7 +19,7 @@
 ## 🖥️ Preview
 
 <p align="center">
-  <img src="assets/screenshot.png" />
+  <img src="assets/Screenshot from 2026-03-19 20-43-52.png" />
 </p>
 
 ---
